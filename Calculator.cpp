@@ -13,19 +13,19 @@ int main() {
 //operators
     switch(op) {
         case '+':
-            cout << num1 << " + " << num2 << " = " << num1 + num2;
+            cout << num1 << " + " << num2 << " = " << num1 + num2; //basic +
             break;
 // + func
         case '-':
-            cout << num1 << " - " << num2 << " = " << num1 - num2;
+            cout << num1 << " - " << num2 << " = " << num1 - num2; //basic -
             break;
 // - func
         case '*':
-            cout << num1 << " * " << num2 << " = " << num1 * num2;
+            cout << num1 << " * " << num2 << " = " << num1 * num2; //basic *
             break;
 // * func
         case '/':
-            cout << num1 << " / " << num2 << " = " << num1 / num2;
+            cout << num1 << " / " << num2 << " = " << num1 / num2; //basic /
             break;
 // / func
         default:
